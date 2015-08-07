@@ -1,0 +1,7 @@
+D:\VSProjects\Sockets Udp Clients-Server\Udp Send Terminal\Udp Send Terminal\bin\Debug\Udp Send Terminal.exe.config
+D:\VSProjects\Sockets Udp Clients-Server\Udp Send Terminal\Udp Send Terminal\obj\Debug\Udp Send Terminal.csprojResolveAssemblyReference.cache
+D:\VSProjects\Sockets Udp Clients-Server\Udp Send Terminal\Udp Send Terminal\bin\Debug\Udp Send Terminal.exe
+D:\VSProjects\Sockets Udp Clients-Server\Udp Send Terminal\Udp Send Terminal\bin\Debug\Udp Send Terminal.pdb
+D:\VSProjects\Sockets Udp Clients-Server\Udp Send Terminal\Udp Send Terminal\obj\Debug\Udp Send Terminal.exe
+D:\VSProjects\Sockets Udp Clients-Server\Udp Send Terminal\Udp Send Terminal\obj\Debug\Udp Send Terminal.pdb
+D:\VSProjects\Sockets Udp Clients-Server\Udp Send Terminal\Udp Send Terminal\bin\Debug\LumiSoft.Net.dll
